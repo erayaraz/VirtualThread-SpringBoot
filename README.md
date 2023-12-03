@@ -4,6 +4,9 @@ I tested the virtual threads introduced with Java 21 in this project. I conducte
 
 ![image](https://github.com/erayaraz/VirtualThread-SpringBoot/assets/47903345/8ce30115-783e-4677-ae81-8481f897957d)
 
+![image](https://github.com/erayaraz/VirtualThread-SpringBoot/assets/47903345/dc8cf980-4370-4a02-afd4-3fe8f8d55a13)
+
+
 ## Test
 ab -c 10000 -n 10000 http://localhost:8080/virtual/thread/delay/service?second=3
 
